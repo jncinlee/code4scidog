@@ -16,10 +16,13 @@
 6. Pascal：对于笔者来说，Pascal相当于一段青春回忆，初恋的感觉，毕竟笔者的一个微分方程求解器，第一个物理引擎，第一个GUI程序，甚至把喜好女孩的名字写入程序的习惯都是和Pascal一起度过的。所以很难以一个客观的语气描述它。Pascal是一个数学家命名的编程语言，是一种非常的优雅（对比fortran）和严谨（对比c）的编程语言，而且Pascal诞生的目的是为了证明[结构化编程](http://zh.wikipedia.org/wiki/结构化编程)可以完成一切编程的任务，这一问题的核心是免去Goto语句的使用，饶是这样，笔者在第一次计算机竞赛的时候还是使用Goto完成了一道题并得了人生第一个省二，从此走上一个找不到女朋友的不归路。
 
 还有一些是解释性的语言，这也就是意味着我们只需要一个[解释器](http://zh.wikipedia.org/wiki/解释器)就可以运行他们，
+
 1. LISP，这是世界上第二种编程语言，而且是生命力最顽强的一种，因为它实在是太先进了。具体可以看王垠的这篇博文，[Lisp 已死，Lisp 万岁！](http://www.yinwang.org/blog-cn/2013/03/26/lisp-dead-alive/)
 2. Ruby，这是一个日本人开发的编程语言，很多文档都以日语写成，算是亚裔程序员的骄傲了。Ruby 大名鼎鼎的框架是Ruby on rails，一个著名的网站framework。
 3. Haskell：Haskell是一个数学家的玩具，他的目的是因为数学家们觉得现在的编程语言都太糟糕了。于是就新写了一个编程语言而且不准备商业化，不过确实，Haskell的很多特性都在被其他语言借鉴着，比如模式匹配，比如Lambda算子等。
-4. Javascipt/CoffeScript/Node.js：
+4. Javascipt/CoffeScript/Node.js：这三个东西中前两个是语言,而 coffeescript 可以说是 JS 的语法糖, coffee 的语法优美异常.
+5. Python，也是我们的主角了，Python 作为一种编程语言很好的承载了优雅的语法和繁多的功能，虽然 Python 自己很慢，但是有很多很快的库，让我们可以专心于计算本身
+6. Mathematica，是我们的另一个主角，或许称作为 Wolfram Language 更加合适一些。这个玩意天生是为科学计算设计的。也是一种非常可人的玩意。
 
 
-
+作为一只物理狗，我们就从 Mathematica 和 Python 开始上路吧，够你打遍天下。
